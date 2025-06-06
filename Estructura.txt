@@ -8,5 +8,5 @@
 ├── README.md
 ├── requirements.txt
 ├── output/
-│   └── quotes.json
-└── NOTAS.md
+    └── quotes.json
+
