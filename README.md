@@ -91,3 +91,7 @@ Esta web no requiere resolver CAPTCHAs, pero si fuera necesario:
 
 - Se podría integrar con servicios externos como 2Captcha o Anti-Captcha.
 - También se puede combinar Playwright con librerías OCR o detección automática para resolver versiones simples.
+
+---
+## Contacto
+Desarrollado por Javier Villaseñor García  
